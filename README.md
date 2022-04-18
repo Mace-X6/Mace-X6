@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mace-X6
-- 👀 I’m interested in csharp atm
-- 🌱 I’m currently learning  csharp
+- 👀 I’m interested in csharp & js
+- 🌱 I’m currently learning csharp & js
 - 📫 How to reach me dont try to reach me
 
 <!---
